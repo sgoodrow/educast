@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>SRVUSD BOE Podcast</title>
+    <link>https://www.scottgoodrow.com/index.php/podcasts/srvusd/</link>
+    <description>Unofficial Podcast of San Ramon Valley Unified School District Board of Education Meetings</description>
+    <atom:link href="https://www.scottgoodrow.com/index.php/podcasts/srvusd/" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.scottgoodrow.com/files/podcasts/srvusd/cover.jpeg</url>
+      <title>SRVUSD BOE Podcast</title>
+      <link>https://www.scottgoodrow.com/files/podcasts/srvusd/feed.rss</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Aug 2017 18:16:32 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Aug 2017 11:16:33 -0700</pubDate>
+    <itunes:author>Scott Goodrow</itunes:author>
+    <itunes:category text="Government &amp; Organizations">
+      <itunes:category text="Local"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:complete>no</itunes:complete>
+    <itunes:owner>
+      <itunes:name>Scott Goodrow</itunes:name>
+      <itunes:email>podcast@scottgoodrow.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Unofficial Podcast of SRVUSD BOE Meetings</itunes:subtitle>
+    <itunes:summary>This is an unofficial podcast of the San Ramon Valley Unified School District Board of Education meetings, provided for easier access.</itunes:summary>
+    <item>
+      <title>170801 SRVUSD BOE Meeting</title>
+      <description>August 1st, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</description>
+      <guid isPermaLink="false">170801_srvusd_boe_meeting</guid>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170801_srvusd_boe_meeting.mp3" length="6998542" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>874</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>August 1st, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</itunes:subtitle>
+      <itunes:summary>August 1st, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</itunes:summary>
+    </item>
+    <item>
+      <title>170627 SRVUSD BOE Meeting</title>
+      <description>June 27th, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</description>
+      <guid isPermaLink="false">170627_srvusd_boe_meeting</guid>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170627_srvusd_boe_meeting.mp3" length="46068238" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>5758</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>June 27th, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</itunes:subtitle>
+      <itunes:summary>June 27th, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</itunes:summary>
+    </item>
+    <item>
+      <title>170613 SRVUSD BOE Meeting</title>
+      <description>June 13th, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.
+00:02:39 - 9.1 - Presentation - National Geographic Bee Finalist
+00:05:12 - 9.2 - Public Comment for Non-Agenda Items
+00:21:02 - 9.3 - Association President's Comments
+00:23:20 - 9.4 - School Climate Update
+01:27:26 - 10.2 - Public Hearing for the Proposed 2017-18 District Budget
+01:32:08 - 10.3/4/5 - Disclosure/Approval of the Major Provisions of the 2016-17 CSEA #65/II/III
+01:37:26 - 10.6/7 - Disclosure/Approval of the Major Provisions of the 2016-17 SEIU #1021
+01:41:20 - 10.8/9 - Hearing/Approval of SRVUSD SELPA Plan for 2017-18
+01:45:50 - 10.10/11 - Consideration of Approval of New Position Descriptions for Executive Directors
+01:47:41 - 12.1 - Board Member's Reports
+01:56:19 - 12.2 - Superintendent's Report</description>
+      <guid isPermaLink="false">170613_srvusd_boe_meeting</guid>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170613_srvusd_boe_meeting.mp3" length="56461198" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>7057</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>June 13th, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</itunes:subtitle>
+      <itunes:summary>June 13th, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.
+00:02:39 - 9.1 - Presentation - National Geographic Bee Finalist
+00:05:12 - 9.2 - Public Comment for Non-Agenda Items
+00:21:02 - 9.3 - Association President's Comments
+00:23:20 - 9.4 - School Climate Update
+01:27:26 - 10.2 - Public Hearing for the Proposed 2017-18 District Budget
+01:32:08 - 10.3/4/5 - Disclosure/Approval of the Major Provisions of the 2016-17 CSEA #65/II/III
+01:37:26 - 10.6/7 - Disclosure/Approval of the Major Provisions of the 2016-17 SEIU #1021
+01:41:20 - 10.8/9 - Hearing/Approval of SRVUSD SELPA Plan for 2017-18
+01:45:50 - 10.10/11 - Consideration of Approval of New Position Descriptions for Executive Directors
+01:47:41 - 12.1 - Board Member's Reports
+01:56:19 - 12.2 - Superintendent's Report</itunes:summary>
+    </item>
+    <item>
+      <title>170523 SRVUSD BOE Meeting</title>
+      <description>May 23rd, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.
+00:06:52 - 9.1 - Presentations
+00:20:07 - 9.2 - Student Board Member Report
+00:27:50 - 9.3 - Public Comment for Non-Agenda Item
+02:53:00 - 9.4 - Association President's Comments
+03:00:16 - 10.1 - Resolution: Elimination and/or Reduction of Classified Positions
+03:00:36 - 10.2 - Resolution: Approval of Telugu World Language for Academic Credit
+03:00:56 - 10.3 - Update on Governor's 2017-18 May Revise Proposal
+03:36:58 - 11.1 - TRAFFIX Update</description>
+      <guid isPermaLink="false">170523_srvusd_boe_meeting</guid>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170523_srvusd_boe_meeting.mp3" length="131309902" type="audio/mpeg"/>
+      <pubDate>Tue, 23 May 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>16413</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>May 23rd, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.</itunes:subtitle>
+      <itunes:summary>May 23rd, 2017 - Meeting - San Ramon Valley Unified School District Board of Education.
+00:06:52 - 9.1 - Presentations
+00:20:07 - 9.2 - Student Board Member Report
+00:27:50 - 9.3 - Public Comment for Non-Agenda Item
+02:53:00 - 9.4 - Association President's Comments
+03:00:16 - 10.1 - Resolution: Elimination and/or Reduction of Classified Positions
+03:00:36 - 10.2 - Resolution: Approval of Telugu World Language for Academic Credit
+03:00:56 - 10.3 - Update on Governor's 2017-18 May Revise Proposal
+03:36:58 - 11.1 - TRAFFIX Update</itunes:summary>
+    </item>
+    <item>
+      <title>170502 SRVUSD BOE Workshop Part 2</title>
+      <description>San Ramon Valley Unified School District Board of Education Workshop Part 2, held May 2nd, 2017.</description>
+      <guid isPermaLink="false">170502_srvusd_boe_workshop_part_2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170502_srvusd_boe_workshop_part_2.mp3" length="31117079" type="audio/mpeg"/>
+      <pubDate>Tue, 02 May 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>4466</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>San Ramon Valley Unified School District Board of Education Workshop Part 2, held May 2nd, 2017.</itunes:subtitle>
+      <itunes:summary>San Ramon Valley Unified School District Board of Education Workshop Part 2, held May 2nd, 2017.</itunes:summary>
+    </item>
+    <item>
+      <title>170502 SRVUSD BOE Workshop Part 1</title>
+      <description>San Ramon Valley Unified School District Board of Education Workshop Part 1, held May 2nd, 2017.</description>
+      <guid isPermaLink="false">170502_srvusd_boe_workshop_part_1</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170502_srvusd_boe_workshop_part_1.mp3" length="48630195" type="audio/mpeg"/>
+      <pubDate>Tue, 02 May 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>6979</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>San Ramon Valley Unified School District Board of Education Workshop Part 1, held May 2nd, 2017.</itunes:subtitle>
+      <itunes:summary>San Ramon Valley Unified School District Board of Education Workshop Part 1, held May 2nd, 2017.</itunes:summary>
+    </item>
+    <item>
+      <title>170502 SRVUSD BOE Meeting</title>
+      <description>San Ramon Valley Unified School District Board of Education Meeting, held May 2nd, 2017.</description>
+      <guid isPermaLink="false">170502_srvusd_boe_meeting</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170502_srvusd_boe_meeting.mp3" length="73936997" type="audio/mpeg"/>
+      <pubDate>Tue, 02 May 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>10612</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>San Ramon Valley Unified School District Board of Education Meeting, held May 2nd, 2017.</itunes:subtitle>
+      <itunes:summary>San Ramon Valley Unified School District Board of Education Meeting, held May 2nd, 2017.</itunes:summary>
+    </item>
+    <item>
+      <title>170418 SRVUSD BOE Meeting</title>
+      <description>San Ramon Valley Unified School District Board of Education Meeting, held April 18th, 2017.</description>
+      <guid isPermaLink="false">170418_srvusd_boe_meeting</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170418_srvusd_boe_meeting.mp3" length="71391626" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>10246</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>San Ramon Valley Unified School District Board of Education Meeting, held April 18th, 2017.</itunes:subtitle>
+      <itunes:summary>San Ramon Valley Unified School District Board of Education Meeting, held April 18th, 2017.</itunes:summary>
+    </item>
+    <item>
+      <title>170321 SRVUSD BOE Meeting</title>
+      <description>San Ramon Valley Unified School District Board of Education Meeting, held March 21st, 2017.</description>
+      <guid isPermaLink="false">170321_srvusd_boe_meeting</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170321_srvusd_boe_meeting.mp3" length="25819655" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>3705</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>San Ramon Valley Unified School District Board of Education Meeting, held March 21st, 2017.</itunes:subtitle>
+      <itunes:summary>San Ramon Valley Unified School District Board of Education Meeting, held March 21st, 2017.</itunes:summary>
+    </item>
+    <item>
+      <title>170307 SRVUSD BOE Meeting</title>
+      <description>San Ramon Valley Unified School District Board of Education Meeting, held March 7th, 2017.</description>
+      <guid isPermaLink="false">170307_srvusd_boe_meeting</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170307_srvusd_boe_meeting.mp3" length="44442035" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>6378</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>San Ramon Valley Unified School District Board of Education Meeting, held March 7th, 2017.</itunes:subtitle>
+      <itunes:summary>San Ramon Valley Unified School District Board of Education Meeting, held March 7th, 2017.</itunes:summary>
+    </item>
+    <item>
+      <title>170207 SRVUSD BOE Meeting</title>
+      <description>San Ramon Valley Unified School District Board of Education Meeting, held February 7th, 2017.</description>
+      <guid isPermaLink="false">170207_srvusd_boe_meeting</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170207_srvusd_boe_meeting.mp3" length="28405360" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 -0753</pubDate>
+      <itunes:duration>4077</itunes:duration>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:subtitle>San Ramon Valley Unified School District Board of Education Meeting, held February 7th, 2017.</itunes:subtitle>
+      <itunes:summary>San Ramon Valley Unified School District Board of Education Meeting, held February 7th, 2017.</itunes:summary>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+{  
+  "chapters": [
+    {
+      "time": "00:06:52",
+	  "item": "9.1",
+      "text": "Presentations"
+    },
+    {
+      "time": "00:20:07",
+	  "item": "9.2",
+      "text": "Student Board Member Report"
+    },
+    {
+      "time": "00:27:50",
+	  "item": "9.3",
+      "text": "Public Comment for Non-Agenda Item"
+    },
+	{
+      "time": "02:53:00",
+	  "item": "9.4",
+      "text": "Association President's Comments"
+    },
+	{
+      "time": "03:00:16",
+	  "item": "10.1",
+      "text": "Resolution: Elimination and/or Reduction of Classified Positions"
+    },
+	{
+      "time": "03:00:36",
+	  "item": "10.2",
+      "text": "Resolution: Approval of Telugu World Language for Academic Credit"
+    },
+	{
+      "time": "03:00:56",
+	  "item": "10.3",
+      "text": "Update on Governor's 2017-18 May Revise Proposal"
+    },
+	{
+      "time": "03:36:58",
+	  "item": "11.1",
+      "text": "TRAFFIX Update"
+    }]
+}

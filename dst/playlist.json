@@ -1,0 +1,202 @@
+{
+    "playlist": [
+        {
+            "image": "https://archive.org/download/SRVUSD/170801_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170801_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170801_srvusd_boe_meeting/170801_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170801_srvusd_boe_meeting/170801_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170801_srvusd_boe_meeting.mp3", 
+            "title": "170801 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170627_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170627_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170627_srvusd_boe_meeting/170627_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170627_srvusd_boe_meeting/170627_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170627_srvusd_boe_meeting.mp3", 
+            "title": "170627 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170613_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170613_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170613_srvusd_boe_meeting/170613_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170613_srvusd_boe_meeting/170613_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170613_srvusd_boe_meeting.mp3", 
+            "title": "170613 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170523_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170523_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170523_srvusd_boe_meeting/170523_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170523_srvusd_boe_meeting/170523_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "http://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170523_srvusd_boe_meeting.mp3", 
+            "title": "170523 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170502_srvusd_boe_workshop_part_2.jpeg", 
+            "mediaid": "170502_srvusd_boe_workshop_part_2", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170502_srvusd_boe_workshop_part_2/170502_srvusd_boe_workshop_part_2.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170502_srvusd_boe_workshop_part_2/170502_srvusd_boe_workshop_part_2.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170502_srvusd_boe_workshop_part_2.mp3", 
+            "title": "170502 SRVUSD BOE Workshop Part 2"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170502_srvusd_boe_workshop_part_1.jpeg", 
+            "mediaid": "170502_srvusd_boe_workshop_part_1", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170502_srvusd_boe_workshop_part_1/170502_srvusd_boe_workshop_part_1.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170502_srvusd_boe_workshop_part_1/170502_srvusd_boe_workshop_part_1.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170502_srvusd_boe_workshop_part_1.mp3", 
+            "title": "170502 SRVUSD BOE Workshop Part 1"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170502_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170502_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170502_srvusd_boe_meeting/170502_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170502_srvusd_boe_meeting/170502_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170502_srvusd_boe_meeting.mp3", 
+            "title": "170502 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170418_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170418_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170418_srvusd_boe_meeting/170418_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170418_srvusd_boe_meeting/170418_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170418_srvusd_boe_meeting.mp3", 
+            "title": "170418 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170321_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170321_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170321_srvusd_boe_meeting/170321_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170321_srvusd_boe_meeting/170321_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170321_srvusd_boe_meeting.mp3", 
+            "title": "170321 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170307_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170307_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170307_srvusd_boe_meeting/170307_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170307_srvusd_boe_meeting/170307_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170307_srvusd_boe_meeting.mp3", 
+            "title": "170307 SRVUSD BOE Meeting"
+        }, 
+        {
+            "image": "https://archive.org/download/SRVUSD/170207_srvusd_boe_meeting.jpeg", 
+            "mediaid": "170207_srvusd_boe_meeting", 
+            "tracks": [
+                {
+                    "kind": "chapters", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170207_srvusd_boe_meeting/170207_srvusd_boe_meeting.vtt"
+                }, 
+                {
+                    "default": "true", 
+                    "kind": "captions", 
+                    "file": "https://www.scottgoodrow.com/files/podcasts/srvusd/170207_srvusd_boe_meeting/170207_srvusd_boe_meeting.vtt", 
+                    "label": "English"
+                }
+            ], 
+            "file": "https://dts.podtrac.com/redirect.mp3/https://archive.org/download/SRVUSD/170207_srvusd_boe_meeting.mp3", 
+            "title": "170207 SRVUSD BOE Meeting"
+        }
+    ]
+}
